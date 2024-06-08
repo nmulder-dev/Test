@@ -1,0 +1,19 @@
+body {
+  background-color: #7d7066;
+}
+
+.main-background {
+  border: 2px solid black;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  height: 95%;
+}
+
+.item {
+  border: 2px solid black;
+  padding: 5px;
+  height: inherit;
+
+  width: 1000px;
+}
